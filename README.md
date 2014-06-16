@@ -1,7 +1,7 @@
 NSString+CommandLineScript
 ==========================
 
-Category on NSString which returns the output of the command if run in Terminal
+Category on NSString which returns the output of the command if run in Terminal. Also implemented in [Swift](https://github.com/JackRostron/Swift-NSString-CommandLineScript).
 
 
 ## How to run a command
